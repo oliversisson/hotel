@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  category: MyString
+  status: MyString
+  updated: 2014-05-07 22:03:52
+  opened: 1
+  longitude: 1.5
+  latitude: 1.5
+  original_json: MyString
+
+two:
+  category: MyString
+  status: MyString
+  updated: 2014-05-07 22:03:52
+  opened: 1
+  longitude: 1.5
+  latitude: 1.5
+  original_json: MyString
